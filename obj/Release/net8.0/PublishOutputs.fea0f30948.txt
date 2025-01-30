@@ -1,0 +1,11 @@
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\demo.exe
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\appsettings.Development.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\appsettings.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\demo.dll
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\demo.deps.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\demo.runtimeconfig.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\demo.pdb
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\Microsoft.OpenApi.dll
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roopa\source\repos\Roopagotur\apidemo\out\Swashbuckle.AspNetCore.SwaggerUI.dll
