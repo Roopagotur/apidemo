@@ -1,6 +1,26 @@
 [
   {
-    "ContainingType": "demo.Controllers.HelloWorldController",
+    "ContainingType": "demo.Controllers.demoController",
+    "Method": "Get",
+    "RelativePath": "demo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HelloWorldApi.Controllers.HelloWorldController",
     "Method": "Get",
     "RelativePath": "HelloWorld",
     "HttpMethod": "GET",

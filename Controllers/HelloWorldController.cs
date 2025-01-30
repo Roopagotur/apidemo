@@ -1,10 +1,10 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
-namespace demo.Controllers
+namespace HelloWorldApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class demoController : ControllerBase
+    public class HelloWorldController : ControllerBase
     {
         [HttpGet]
         public string Get()

@@ -62,3 +62,10 @@ C:\Users\roopa\source\repos\Roopagotur\apidemo\obj\Debug\net8.0\refint\demo.dll
 C:\Users\roopa\source\repos\Roopagotur\apidemo\obj\Debug\net8.0\demo.pdb
 C:\Users\roopa\source\repos\Roopagotur\apidemo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 C:\Users\roopa\source\repos\Roopagotur\apidemo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\out\web.config
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\out\appsettings.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\out\demo.deps.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\out\demo.runtimeconfig.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\bin\Debug\net8.0\vercel.json
+C:\Users\roopa\source\repos\Roopagotur\apidemo\obj\Debug\net8.0\demo.sourcelink.json
